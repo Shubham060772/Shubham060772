@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Machine Learning & AI, Web3 Development**
 
 - 📫 How to reach me **shubham0607agrawal@gmail.com**
-- Visit my website **<a href="https://twitter.com/shubham_6704" target="blank">Portfolio</a>**
+- Visit my website **<a href="https://shubham060772.github.io/Portfolio_/" target="blank">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
